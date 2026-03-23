@@ -33,6 +33,10 @@ In the **Asset Library**, import:
 
 > These will automatically appear in your Scene Hierarchy. you can uncheck them to hide them.
 
+### Update the Script
+
+Open the SnapSaberCollisionHandler.ts script and modify it to the script sent attached in the 'Scripts to Add' folder in this Github project, and save!
+
 ### Assign Assets
 
 Open `SnapSaberCollisionHandler` in the Inspector and assign:
